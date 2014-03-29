@@ -24,3 +24,5 @@ permission from Continuum Analytics.  If you would like to use these
 (e.g. for teaching a small class), or if you would like to include these in
 a work meant for redistribution, please let us know by 
 emailing info@continuum.io.
+
+video: https://www.youtube.com/watch?v=YAFyzUsZGvc
